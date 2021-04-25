@@ -11,6 +11,7 @@ class Hosttest(LiveServerTestCase):
 		driver = webdriver.Chrome()
 
 		driver.get('http://127.0.0.1:8000/')
+		# try driver.get(self.live_server_url) if driver.get('http://127.0.0.1:8000/') does not work
 		
 		assert "Hello, world!" in driver.title
 
