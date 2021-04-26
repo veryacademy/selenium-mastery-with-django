@@ -69,6 +69,17 @@ Selenium is a popular python test automation framework for automating web-based 
 
 </details>
 
+<details>
+<summary><b>Part-2 Selenium | Django | Headless Webdrivers | GitHub Actions Testing Configuration</b>
+</summary>
+<br>
+Selenium is a popular python test automation framework for automating web-based application testing. Here we look at how to run Selenium with Headless Chrome and Firefox Webdrivers. After a short Django set using the code from the previous tutorial we first adapt our code to use Chrome in headless mode. We then create a new GitHub repository, push our code to the repo and setup GitHub Actions to test our application with both Firefox and Chrome headless Webdrivers.
+<br><br>
+
+* Link-to-Tutorial https://youtu.be/odUAJws0sPU
+
+</details>
+
 ## Future Content
 List of features requested by community. If you would like to request any tutorials for this course - please visit our YouTube channel and ask in the comments.
 
